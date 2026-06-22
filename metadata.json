@@ -1,0 +1,6 @@
+{
+  "name": "Local CSV & Excel Database",
+  "description": "Demo aplikasi database lokal menggunakan file Excel dan CSV yang diproses sepenuhnya secara offline di browser browser tanpa server eksternal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
